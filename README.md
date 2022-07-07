@@ -1,5 +1,6 @@
 ## Hi, I'm Tran Minh Hieu (aka MHP) 💕
-## This is my another account for website hosting
+
+### This is my another account for web hosting
 
 
 ### Giới thiệu (Introduction)
@@ -115,8 +116,11 @@
 　　　　　　🟦🟦🟦🟦🟦🟦🟦🟦　　　　　　<br>
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 
+### Github Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=automatemachine&theme=black-ice&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ### Github Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MHP0920&theme=black-ice&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=automatemachine&theme=radical&hide_border=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Team 💪
 - Mình hiện tại chưa có team, là một lập trình viên đơn (I don't have a team right now, I'm a single programmer)
