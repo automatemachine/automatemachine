@@ -123,6 +123,14 @@
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=automatemachine&theme=radical&hide_border=true&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=automatemachine&theme=radical&hide_border=true&show_icons=true&lang_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Trophy
+![Trophy](https://github-profile-trophy.vercel.app/?username=automatemachine&theme=onedark)
+
+### Graph
+![Graph](https://activity-graph.herokuapp.com/graph?username=automatemachine&theme=redical)
+
 ### Team 💪
 - Mình hiện tại chưa có team, là một lập trình viên đơn (I don't have a team right now, I'm a single programmer)
 
